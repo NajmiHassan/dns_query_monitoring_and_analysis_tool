@@ -1,0 +1,5 @@
+scapy
+dnspython
+scikit-learn
+pandas
+matplotlib

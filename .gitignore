@@ -2,3 +2,5 @@
 dns_monitor_env/
 # Ignore Python bytecode files
 __pycache__/
+
+dns_log.csv
