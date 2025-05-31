@@ -1,5 +1,12 @@
 [![Watch the video](https://img.youtube.com/vi/rhLfQY4ghrY/0.jpg)](https://youtu.be/rhLfQY4ghrY)
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch the video" />
+  </a>
+</p>
+
+
 # DNS Query Monitoring and Analysis Tool
 
 A Python-based tool for monitoring DNS queries on your network and detecting potentially malicious or suspicious domain name resolution patterns using machine learning.
