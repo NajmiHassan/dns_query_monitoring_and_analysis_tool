@@ -1,8 +1,5 @@
-[![Watch the video](https://img.youtube.com/vi/rhLfQY4ghrY/0.jpg)](https://youtu.be/rhLfQY4ghrY)
-
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch the video" />
+  <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/rhLfQY4ghrY)" target="_blank">
   </a>
 </p>
 
