@@ -1,3 +1,8 @@
+## Demo Video
+
+Check out our demo video:
+
+[![Demo Video](https://img.youtube.com/vi/rhLfQY4ghrY/0.jpg)](https://www.youtube.com/watch?v=rhLfQY4ghrY)
 # DNS Query Monitoring and Analysis Tool
 
 A Python-based tool for monitoring DNS queries on your network and detecting potentially malicious or suspicious domain name resolution patterns using machine learning.
