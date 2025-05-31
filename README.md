@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/rhLfQY4ghrY)" target="_blank">
+  <a href="https://youtu.be/rhLfQY4ghrY" target="_blank">
+    <img src="https://img.youtube.com/vi/rhLfQY4ghrY/0.jpg" alt="Watch the video" />
   </a>
 </p>
-
 
 # DNS Query Monitoring and Analysis Tool
 
