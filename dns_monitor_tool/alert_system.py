@@ -9,7 +9,7 @@ def alert():
     """
     try:
         print("\n" + "="*60)
-        print("🚨 [SECURITY ALERT] 🚨")
+        print(" [SECURITY ALERT] ")
         print("   Anomalous DNS activity detected!")
         print(f"   Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("="*60)
@@ -29,10 +29,10 @@ def alert():
             # For non-Windows systems, try system bell
             print("\a" * 3)  # System bell
             
-        print("🔍 Check the anomaly report for details.")
+        print(" Check the anomaly report for details.")
         
     except Exception as e:
-        print(f"❌ Error in alert system: {e}")
+        print(f" Error in alert system: {e}")
 
 def log_alert(message):
     """
